@@ -1,1 +1,1 @@
-# Big-Sorting-ALGO
+# Big-Sorting-ALGO.This C# code sorts a list of very large numbers represented as strings by length first (shorter numbers come first) and then lexicographically for numbers of the same length, ensuring correct numeric order without converting them to numeric types. The Main method reads input, calls bigSorting, and prints the sorted result.
